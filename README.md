@@ -6,7 +6,7 @@ For those who read HN comments section a lot.
 
 2. Cleaner comment topline for less distraction — shows controls only on topline hover
 
-![Image](https://github.com/user-attachments/assets/4b98835f-80cb-4656-abdd-fd802d04c913)
+<img src="https://github.com/user-attachments/assets/33cf4a7d-9eba-4436-8b84-ab9210e2f29c" width="800">
 
 # Install
 
