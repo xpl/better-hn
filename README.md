@@ -2,7 +2,7 @@
 
 For those who read HN comments section a lot.
 
-1. Updates comments without the page reload — instantly see new ones as they appear!
+1. **Updates comments without the page reload** — instantly see new ones as they appear!
 
 2. Cleaner comment topline for less distraction — shows controls only on topline hover
 
